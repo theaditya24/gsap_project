@@ -73,7 +73,7 @@ const Hero = () => {
     <section id='hero' className='noisy'>
         <h1 className='title'>MOJITO</h1>
 
-        <img src="/images/hero-left-leaf.png" alt="left-leaf" className='left-leaf absolute top-40 left-0 z-1' />
+        <img src="/images/hero-left-leaf.png" alt="left-leaf" className='left-leaf absolute top-40 left-0 z-0' />
         <img src="/images/hero-right-leaf.png" alt="right-leaf" className='right-leaf absolute top-0 right-0 z-1' />
 
         <div className='body'>
